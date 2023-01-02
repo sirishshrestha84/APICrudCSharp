@@ -25,3 +25,14 @@ D:\dot net projects\ContactAPI\ContactAPI\obj\Debug\net6.0\refint\ContactAPI.dll
 D:\dot net projects\ContactAPI\ContactAPI\obj\Debug\net6.0\ContactAPI.pdb
 D:\dot net projects\ContactAPI\ContactAPI\obj\Debug\net6.0\ContactAPI.genruntimeconfig.cache
 D:\dot net projects\ContactAPI\ContactAPI\obj\Debug\net6.0\ref\ContactAPI.dll
+D:\dot net projects\ContactAPI\ContactAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\dot net projects\ContactAPI\ContactAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\dot net projects\ContactAPI\ContactAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\dot net projects\ContactAPI\ContactAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\dot net projects\ContactAPI\ContactAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\dot net projects\ContactAPI\ContactAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\dot net projects\ContactAPI\ContactAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\dot net projects\ContactAPI\ContactAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\dot net projects\ContactAPI\ContactAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\dot net projects\ContactAPI\ContactAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\dot net projects\ContactAPI\ContactAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
